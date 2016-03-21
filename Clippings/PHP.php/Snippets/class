@@ -1,0 +1,14 @@
+<?php
+/**
+  * <#Description#>
+  *
+  * @author #NAME# <<#email#>@<#example.com#>>
+  * @version #DATETIME y'-'LL'-'dd#
+  * @since #DATETIME y'-'LL'-'dd#
+  *
+  */
+  
+class <##> {
+  <##>
+}
+?>

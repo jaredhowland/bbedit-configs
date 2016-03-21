@@ -1,0 +1,10 @@
+/**
+   * <#Description#>
+   *
+   * @access <#public|protected|private#>
+   * @param <#string|array|int#> <#$variable#> <#Description#>
+   * @return <#string|array|int#> <#Description#>
+   **/
+  <#public|protected|private#> function <#function-name#>(<#$argument#>) {
+    <#code…#>
+  }
